@@ -20,4 +20,4 @@ This project was replicated from Ivan Fernandes Alonso's project, which was buil
     * PWM -> PA8
 * VCC -> VCC
 * GND -> GND
-  
+
