@@ -26,3 +26,7 @@ This project was replicated from Ivan Fernandes Alonso's project, which was buil
 ## Web Server Dashboard
 ESP32 receives data from STM32 via UART communication and then represents them on Web Server Dashboard
 
+![image alt](https://github.com/nmcuong070823/STM32_fuzzylogic_fancontroller/blob/fdea9e0b606797b0e5239e534396dd52aabfc3f6/web%20server%20dashboard.JPG)
+
+
+
