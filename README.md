@@ -10,6 +10,7 @@ This project was replicated from Ivan Fernandes Alonso's project, which was buil
 * OLED SSD1306 I2C
 * Mosfet PWM Module
 * DC Fan - Ventilator
+* DOIT DevKit V1 ESP32
 ### Wiring diagram
 * BME280 - OLED SSD1306 I2C
   * SCL -> PB6
@@ -18,6 +19,7 @@ This project was replicated from Ivan Fernandes Alonso's project, which was buil
    * OUT -> PA1
 * Mosfet PWM Module
     * PWM -> PA8
+* ESP 32 GPIO16 -> PA2 (RX -> TX)
 * VCC -> VCC
 * GND -> GND
 
