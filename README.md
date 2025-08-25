@@ -20,4 +20,5 @@ This project was replicated from Ivan Fernandes Alonso's project, which was buil
     * PWM -> PA8
 * VCC -> VCC
 * GND -> GND
+
 ![image alt](https://github.com/nmcuong070823/STM32_fuzzylogic_fancontroller/blob/ab45b46b5cfee8fb5ab32bb0b2944a4ccd6c8c37/Wiring%20diagram.JPG)
