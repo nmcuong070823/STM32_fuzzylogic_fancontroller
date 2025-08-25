@@ -22,3 +22,7 @@ This project was replicated from Ivan Fernandes Alonso's project, which was buil
 * GND -> GND
 
 ![image alt](https://github.com/nmcuong070823/STM32_fuzzylogic_fancontroller/blob/ab45b46b5cfee8fb5ab32bb0b2944a4ccd6c8c37/Wiring%20diagram.JPG)
+
+## Web Server Dashboard
+ESP32 receives data from STM32 via UART communication and then represents them on Web Server Dashboard
+
